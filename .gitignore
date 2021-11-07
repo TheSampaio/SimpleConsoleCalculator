@@ -1,0 +1,10 @@
+# Directories
+
+.vs
+Debug
+SimpleConsoleCalculator\SimpleConsoleCalculator\Debug
+
+# Files
+
+*.user
+SimpleConsoleCalculator/0
